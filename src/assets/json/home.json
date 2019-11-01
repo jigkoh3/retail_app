@@ -1,0 +1,39 @@
+{
+    "campaigns": [
+        {
+            "name": "",
+            "description": "",
+            "cover_image": "",
+            "display_per_row": 2,
+            "direction":"x",
+            "products": [
+                {
+                    "name": "",
+                    "description": "",
+                    "images":[
+                        "",
+                        "",
+                        ""
+                    ],
+                    "discount_percent": 10,
+                    "discount_fix_price": null,
+                    "shipping_free": true
+                }
+            ]
+        }
+    ],
+    "shortcuts": [
+        {
+            "name":"",
+            "image":"",
+            "route_nav": ""
+        }
+    ],
+    "missions": [
+        {
+            "name":"",
+            "image":"",
+            "route_nav": ""
+        }
+    ]
+}
